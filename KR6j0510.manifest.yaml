@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0510/v1
 canonical_location: https://kanripo.org/bkk/KR6j0510/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 摩醯首羅天法要
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0510_000.yaml, hash: 'sha256:b77d27c0fd64c118817946f1aa440b910c2efd9a078542aa49ce0bd9632ecabf'}
-  - {seq: 1, filename: KR6j0510_001.yaml, hash: 'sha256:857371f4884e0fae6cc0ad63fbcabe8b94fcc5e80a42e146576edea7b8b84a1f'}
+  - {seq: 1, filename: KR6j0510_001.yaml, hash: 'sha256:b27bd110f9348831ea3350056e6f01c593e326e5f8da54ad49ea69e5954d73c2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0510_000.markers.yaml, hash: 'sha256:31d2c4337469ebae5362b7766112102be2a65fcf5a29857f38785055bcd8b67c'}
-  - {seq: 1, role: markers, filename: assets/KR6j0510_001.markers.yaml, hash: 'sha256:15b5119a09317e4fa35af7f7a9f61582decc1468db3822a1b9fe4aea098ef1c1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0510_001.markers.yaml, hash: 'sha256:01e24ba6e7411aeeeb397b4aafe79b0941068d34bd94e3a2135dfc945da01fdf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 摩醯首羅天法要
   type: juan
   level: 1
-hash: sha256:474f118e3619fb76cf332af4d6b4efadefd00b79b5d204eb0f330676cb470b4c
+hash: sha256:b426c694c509f798f62493a127db84c28ba1212097bb71813c075f7de637c9b7
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
